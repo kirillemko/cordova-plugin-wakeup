@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkhax0r/cordova-plugin-wakeuptimer.git"
+    "url": "git+https://github.com/kirillemko/cordova-plugin-wakeup.git"
   },
   "keywords": [
     "sleep",
@@ -22,7 +22,7 @@
   "author": "jkhax0r",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/jkhax0r/cordova-plugin-wakeuptimer/issues"
+    "url": "https://github.com/kirillemko/cordova-plugin-wakeup/issues"
   },
-  "homepage": "https://github.com/jkhax0r/cordova-plugin-wakeuptimer#readme"
+  "homepage": "https://github.com/kirillemko/cordova-plugin-wakeup#readme"
 }
